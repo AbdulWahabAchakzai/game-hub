@@ -1,6 +1,5 @@
-import { useEffect, useState } from "react";
-import apiClient from "../services/api-client";
-import useData from "./useData";
+
+import genres from "../data/genres";
 
 export interface Genre {
     id: number;
@@ -8,7 +7,12 @@ export interface Genre {
     image_background: string;
 }
 
-const useGeneres = () => useData('/genres')
+// Accessing genres by RAWG API.
+// const useGeneres = () => useData('/genres')
+
+// Accessing genres from static data to enhance application performance.
+const useGeneres = () => ({ data: genres, isLoading: false, error: null })
+
 
 export default useGeneres;
 
