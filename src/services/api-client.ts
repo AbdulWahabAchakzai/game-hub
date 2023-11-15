@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios, { AxiosRequestConfig } from "axios";
 const RAWGapiKey = import.meta.env.VITE_RAWG_API_KEY;
 
 export interface FetchResponse<T> {
@@ -6,9 +6,25 @@ export interface FetchResponse<T> {
   results: T[];
 }
 
-export default axios.create({
+const axiosInstance = axios.create({
   baseURL: "https://api.rawg.io/api",
   params: {
     key: RAWGapiKey,
   },
 });
+
+class APICient<T> {
+  endPoint: string;
+
+  constructor(endPoint: string) {
+    this.endPoint = endPoint;
+  }
+
+  getAll = (config: AxiosRequestConfig) => {
+    return axiosInstance
+      .get<FetchResponse<T>>(this.endPoint, config)
+      .then((res) => res.data);
+  };
+}
+
+export default APICient;
