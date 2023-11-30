@@ -1,10 +1,10 @@
 import { useParams } from "react-router-dom";
 import useGame from "../hooks/useGame";
 import { Heading, Spinner, Text } from "@chakra-ui/react";
+import ExpandableText from "../components/ExpandableText";
 
 const GameDetailsPage = () => {
   const { slug } = useParams();
-  console.log("SLUG:::", slug);
 
   const { data: game, isLoading, error } = useGame(slug!); // by appending ! to slug constant we are telling the typescript compiler that this constant will never be null
 
@@ -15,7 +15,7 @@ const GameDetailsPage = () => {
   return (
     <>
       <Heading>{game.name}</Heading>
-      <Text>{game.description_raw}</Text>
+      <ExpandableText>{game.description_raw}</ExpandableText>
     </>
   );
 };
