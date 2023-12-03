@@ -1,5 +1,3 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-
 # GameHub
 
 <table>
@@ -31,7 +29,7 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
 ### Landing Page
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](./src/assets/game-hub.png))
 
 ### Query Filled Form
 
