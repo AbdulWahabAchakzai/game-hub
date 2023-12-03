@@ -29,15 +29,15 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
 ### Landing Page
 
-![](./src/assets/game-hub.png))
+![](./src/assets/game-hub.png)
 
-### Query Filled Form
+### Sorting
 
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+![](./src/assets/game-hub-sorting.png)
 
-### Charts
+### Platform Filter
 
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
+![](./src/assets/game-hub-platform-filter.png)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
