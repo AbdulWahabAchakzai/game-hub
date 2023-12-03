@@ -38,8 +38,6 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 ### Platform Filter
 
 ![](./src/assets/game-hub-platform-filter.png)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
 ## [Usage](https://iharsh234.github.io/WebApp/)
 
