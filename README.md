@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-GameHub is an information website that covers a wide range of games across various platforms. It provides users with a comprehensive database of games, allowing them to explore details about different games and watch their trailers. The project is built using React, incorporating several key features to enhance the user experience.
+GameHub is an information website that covers a wide range of games across various platforms. It provides users with a comprehensive database of games, allowing them to explore details about different games and watch their trailers. The project is built using React, incorporating several key features to enhance the user experience. It is inspired from rawg.io website, which has reach set of features.
 
 Features:
 
@@ -39,24 +39,25 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
 ![](./src/assets/game-hub-platform-filter.png)
 
-## [Usage](https://iharsh234.github.io/WebApp/)
+### Single Game Info
 
-### Development
+## [Single Game Info](./src/assets/gameInfo.png)
 
-Want to contribute? Great!
+### Games and Trailers
 
-To fix a bug or enhance an existing module, follow these steps:
+## [Single Game Info](./src/assets/gameHub-gameTrailer.gif)
 
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request
+### Built With
 
-## Built with
+- [![React][React.js]][React-url]
+- [![Chakra-ui][ChakraUI]][chakra-ui-url]
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and Bundled Javascript plugins.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[ChakraUI]: (https://img.shields.io/badge/chakra--ui-ui)
+[Chakra-ui-url]: https://chakra-ui.com/
