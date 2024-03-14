@@ -1,5 +1,4 @@
 
-https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/8dfb624b-975c-4217-adf8-9c9b3365d89f
 # GameHub
 
 <table>
@@ -27,7 +26,9 @@ With these features in place, GameHub provides an immersive and user-friendly pl
 
 Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
-## Site
+### Trailers and Screen Shots
+
+![GameHub (1)](https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/c8941f54-0123-421a-9b78-9e37ca8376ce)
 
 ### Landing Page
 
@@ -44,11 +45,6 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 ### Single Game Info
 
 ## [Single Game Info](./src/assets/gameInfo.png)
-
-### Trailers and Screen Shots
-
-![GameHub (1)](https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/c8941f54-0123-421a-9b78-9e37ca8376ce)
-
 
 
 
