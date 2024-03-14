@@ -52,8 +52,12 @@ https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/8b8962c6-5ce1-426
 
 ### Built With
 
-- [![React][React.js]][React-url]
-- [![Chakra-ui][ChakraUI]][chakra-ui-url]
+- [React](https://react.dev/)
+- [Chakra-UI](https://chakra-ui.com/)
+- [Framer-Motion](https://www.framer.com/motion/)
+- [TanStack Query](https://tanstack.com/query/latest)
+- [AXIOS](https://axios-http.com/docs/intro)
+- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
