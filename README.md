@@ -45,6 +45,9 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
 ### Games and Trailers
 
+https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/8b8962c6-5ce1-4263-8b6a-83395d6a3d7d
+
+
 ## [Single Game Info](./src/assets/gameHub-gameTrailer.gif)
 
 ### Built With
