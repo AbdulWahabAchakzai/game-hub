@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-GameHub is an information website that covers a wide range of games across various platforms. It provides users with a comprehensive database of games, allowing them to explore details about different games and watch their trailers. The project is built using React, incorporating several key features to enhance the user experience. It is inspired from rawg.io website, which has reach set of features.
+GameHub is an information website that covers a wide range of games across various platforms. It provides users with a comprehensive database of games, allowing them to explore details about different games and watch their trailers. The project is built using React, incorporating several key features to enhance the user experience.
 
 Features:
 
@@ -39,25 +39,36 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
 ![](./src/assets/game-hub-platform-filter.png)
 
-### Single Game Info
+### Single Game's Info Page
 
-## [Single Game Info](./src/assets/gameInfo.png)
+![](./src/assets/gameInfo.png)
 
-### Games and Trailers
+### Game's Information with Trailers
 
-## [Single Game Info](./src/assets/gameHub-gameTrailer.gif)
+![](./src/assets/gameHub-gameTrailer.gif)
 
-### Built With
+## [Usage](https://iharsh234.github.io/WebApp/)
 
-- [![React][React.js]][React-url]
-- [![Chakra-ui][ChakraUI]][chakra-ui-url]
+### Development
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Want to contribute? Great!
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+To fix a bug or enhance an existing module, follow these steps:
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[ChakraUI]: (https://img.shields.io/badge/chakra--ui-ui)
-[Chakra-ui-url]: https://chakra-ui.com/
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -am 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request
+
+## Built with
+
+- [React](https://react.dev/)
+- [Chakra-UI](https://chakra-ui.com/)
+- [React-Query](https://tanstack.com/query/v3/)
+- [axios](https://axios-http.com/docs/intro)
+- [framer-motion](https://www.framer.com/motion/)
+- [ms](https://github.com/vercel/ms#readme)
+- [react-infinit]
