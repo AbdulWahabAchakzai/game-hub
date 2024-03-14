@@ -1,3 +1,5 @@
+
+https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/8dfb624b-975c-4217-adf8-9c9b3365d89f
 # GameHub
 
 <table>
@@ -43,9 +45,11 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
 ## [Single Game Info](./src/assets/gameInfo.png)
 
-### Games and Trailers
+### Trailers and Screen Shots
 
-https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/8b8962c6-5ce1-4263-8b6a-83395d6a3d7d
+![GameHub (1)](https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/c8941f54-0123-421a-9b78-9e37ca8376ce)
+
+
 
 
 ## [Single Game Info](./src/assets/gameHub-gameTrailer.gif)
@@ -59,12 +63,5 @@ https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/8b8962c6-5ce1-426
 - [AXIOS](https://axios-http.com/docs/intro)
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[ChakraUI]: (https://img.shields.io/badge/chakra--ui-ui)
-[Chakra-ui-url]: https://chakra-ui.com/
