@@ -14,7 +14,7 @@ Features:
 
 3. Routing: The project utilizes React Router to implement client-side routing. This enables users to navigate through different sections of the website seamlessly, ensuring a fast and responsive browsing experience. Users can access specific game details pages, search results, and other relevant sections without page reloads.
 
-4. State Management: To efficiently manage the application's state, the project employs state management libraries such as Redux or React Context API. This allows for centralized state management, making it easier to handle data fetching, filtering, and maintaining the application's overall state consistency.
+4. State Management: To efficiently manage the application's state, the project employs state management libraries such as Zustand an alternative to Redux. This allows for centralized state management, making it easier to handle data fetching, filtering, and maintaining the application's overall state consistency.
 
 With these features in place, GameHub provides an immersive and user-friendly platform for game enthusiasts to discover, explore, and gather information about various games across different platforms. It aims to enhance the gaming experience by offering a centralized hub for game-related details and trailers.
 
