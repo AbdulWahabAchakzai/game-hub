@@ -43,7 +43,7 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 ![](./src/assets/game-hub-platform-filter.png)
 
 
-### Built With
+### Built With:
 
 - [React](https://react.dev/)
 - [Chakra-UI](https://chakra-ui.com/)
