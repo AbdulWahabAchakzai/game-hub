@@ -26,7 +26,7 @@ With these features in place, GameHub provides an immersive and user-friendly pl
 
 Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
-### Trailers and Screen Shots
+### Trailers and Screen Shots:
 
 ![GameHub (1)](https://github.com/AbdulWahabAchakzai/game-hub/assets/24620093/c8941f54-0123-421a-9b78-9e37ca8376ce)
 
@@ -34,21 +34,14 @@ Here is a working live demo : https://game-hub-delta-rust.vercel.app/
 
 ![](./src/assets/game-hub.png)
 
-### Sorting
+### Sorting:
 
 ![](./src/assets/game-hub-sorting.png)
 
-### Platform Filter
+### Platform Filtering:
 
 ![](./src/assets/game-hub-platform-filter.png)
 
-### Single Game Info
-
-## [Single Game Info](./src/assets/gameInfo.png)
-
-
-
-## [Single Game Info](./src/assets/gameHub-gameTrailer.gif)
 
 ### Built With
 
